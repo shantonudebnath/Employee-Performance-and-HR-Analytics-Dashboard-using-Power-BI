@@ -1,33 +1,22 @@
-# Sales-and-Financial-Dashboard-using-Power-BI
-Power BI Project Assignment – Sales and Financial Dashboard
-We are looking to enhance our data-driven decision-making capabilities by developing a Sales and Financial Dashboard in Power BI. As part of this initiative, I would like you to take the lead on designing and building a dynamic dashboard that provides insights into our sales performance, financial health, and key operational metrics.
+# Employee Performance and HR Analytics Dashboard
 
-Project Overview:
-The goal of this project is to create an interactive Power BI dashboard that will help senior management track sales trends, revenue performance, and profit margins across different regions and product categories.
+**Project Overview:**
+Create an HR Analytics Dashboard that provides insights into employee performance, attrition rates, department-wise distribution, and salary trends.
 
-Project Scope:
-**Data Sources:**
-1. Sales data (Product-wise, Region-wise, Monthly-wise)
-2. Financial data (Revenue, Expenses, Profit Margins)
-3. Customer data (Customer segmentation, Retention rate)
+**Key Metrics to Include:**
+1. Employee Distribution – by department, job role, and experience level
+2. Attrition Analysis – how many employees are leaving and why
+3. Salary Analysis – salary trends across different roles and departments
+4. Performance Metrics – employee rating and promotions
+5. Diversity Metrics – gender and age distribution
 
-**Key Performance Indicators (KPIs):**
+Dashboard Features:
+✔️ Use Power Query to clean and transform the HR dataset
+✔️ Create calculated columns in DAX for key HR insights
+✔️ Design interactive visuals (e.g., bar charts, pie charts, slicers)
+✔️ Use filters for department-wise or experience-wise analysis
 
-1. Total Revenue & Profit Margin
-2. Sales by Region & Product Category
-3. Monthly Revenue Trend
-4. Customer Retention & Churn Rate
-5. Top-performing & Low-performing Products
+Deliverables:
+✅ Power BI Dashboard (.pbix file)
+✅ Summary Report (PPT or PDF) on HR insights
 
-**Dashboard Requirements:**
-
-1. Use Power Query to clean and transform raw data
-2. Implement DAX calculations for key metrics
-3. Use interactive visuals (charts, tables, slicers) for better insights
-4. Create a drill-through report to analyze detailed sales performance
-5. Design the dashboard to be user-friendly & visually appealing
-
-**Deliverables:**
-1. Power BI Dashboard file (.pbix) with all necessary visuals
-2. Data model and DAX formulas documentation
-3. A short report (or PPT) explaining the dashboard insights
