@@ -6,26 +6,28 @@ Project Overview:
 The goal of this project is to create an interactive Power BI dashboard that will help senior management track sales trends, revenue performance, and profit margins across different regions and product categories.
 
 Project Scope:
-Data Sources:
+**Data Sources:**
+1. Sales data (Product-wise, Region-wise, Monthly-wise)
+2. Financial data (Revenue, Expenses, Profit Margins)
+3. Customer data (Customer segmentation, Retention rate)
 
-Sales data (Product-wise, Region-wise, Monthly-wise)
-Financial data (Revenue, Expenses, Profit Margins)
-Customer data (Customer segmentation, Retention rate)
-Key Performance Indicators (KPIs):
+**Key Performance Indicators (KPIs):**
 
-Total Revenue & Profit Margin
-Sales by Region & Product Category
-Monthly Revenue Trend
-Customer Retention & Churn Rate
-Top-performing & Low-performing Products
-Dashboard Requirements:
+1. Total Revenue & Profit Margin
+2. Sales by Region & Product Category
+3. Monthly Revenue Trend
+4. Customer Retention & Churn Rate
+5. Top-performing & Low-performing Products
 
-Use Power Query to clean and transform raw data
-Implement DAX calculations for key metrics
-Use interactive visuals (charts, tables, slicers) for better insights
-Create a drill-through report to analyze detailed sales performance
-Design the dashboard to be user-friendly & visually appealing
-Deliverables:
-Power BI Dashboard file (.pbix) with all necessary visuals
-Data model and DAX formulas documentation
-A short report (or PPT) explaining the dashboard insights
+**Dashboard Requirements:**
+
+1. Use Power Query to clean and transform raw data
+2. Implement DAX calculations for key metrics
+3. Use interactive visuals (charts, tables, slicers) for better insights
+4. Create a drill-through report to analyze detailed sales performance
+5. Design the dashboard to be user-friendly & visually appealing
+
+**Deliverables:**
+1. Power BI Dashboard file (.pbix) with all necessary visuals
+2. Data model and DAX formulas documentation
+3. A short report (or PPT) explaining the dashboard insights
